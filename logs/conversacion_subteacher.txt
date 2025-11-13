@@ -1,0 +1,10 @@
+
+============================================================
+📅 Nueva sesión (Subteacher) iniciada: 2025-11-13 11:33:12
+Configuración: Modelo=deepseek/deepseek-r1:free, Temp=0.7
+============================================================
+
+[11:33] Alumno: hola
+
+[11:33] Subteacher: ❌ Error 401: Clave API no válida o expirada. Revisa tu API_KEY.
+
