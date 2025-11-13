@@ -1,0 +1,93 @@
+
+============================================================
+📅 Nueva sesión (Edulink) iniciada: 2025-11-13 07:21:48
+Configuración: Modelo=deepseek/deepseek-r1:free, Temp=0.5
+⚠️ Se está utilizando una Base de Conocimiento Externa.
+============================================================
+
+[07:21] Alumno: Hola
+
+[07:21] Edulink: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+============================================================
+📅 Nueva sesión (Edulink) iniciada: 2025-11-13 07:41:22
+Configuración: Modelo=deepseek/deepseek-r1:free, Temp=0.5
+⚠️ Se está utilizando una Base de Conocimiento Externa.
+============================================================
+
+[07:41] Alumno: Hola
+
+[07:41] Edulink: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+[07:41] Alumno: lol
+
+[07:41] Edulink: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+
+============================================================
+📅 Nueva sesión (Subteacher) iniciada: 2025-11-13 08:40:27
+Configuración: Modelo=deepseek/deepseek-r1:free, Temp=0.7
+⚠️ Se está utilizando una Base de Conocimiento Externa.
+============================================================
+
+[08:40] Alumno: Hola
+
+[08:40] Subteacher: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+[08:40] Alumno: mugre careo de mr
+
+[08:40] Subteacher: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+[08:41] Alumno: por que no me respondes
+
+[08:41] Subteacher: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+
+============================================================
+📅 Nueva sesión (Subteacher) iniciada: 2025-11-13 08:50:22
+Configuración: Modelo=deepseek/deepseek-r1:free, Temp=0.7
+⚠️ Se está utilizando una Base de Conocimiento Externa.
+============================================================
+
+
+============================================================
+📅 Nueva sesión (Edulink) iniciada: 2025-11-13 08:50:38
+Configuración: Modelo=deepseek/deepseek-r1:free, Temp=0.5
+⚠️ Se está utilizando una Base de Conocimiento Externa.
+============================================================
+
+[08:50] Alumno: Hola
+
+[08:50] Edulink: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+[08:50] Alumno: HOla
+
+[08:50] Edulink: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+[08:50] Alumno: Hola
+
+[08:50] Edulink: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+[08:50] Alumno: 💬 Escribe aquí tu mensaje...hola
+
+[08:50] Edulink: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+[08:51] Alumno: Hola
+
+[08:51] Edulink: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+[08:51] Alumno: Hola
+
+[08:51] Edulink: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+[08:51] Alumno: 5x^2
+
+[08:51] Edulink: ⚠️ Error HTTP 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1763078400000"},"provider_name":null}},"user_id":"user_35PFgo4YLYXQj0zPMs1Kd3BaEQz"}
+
+
+============================================================
+📅 Nueva sesión (Edulink) iniciada: 2025-11-13 08:53:50
+Configuración: Modelo=deepseek/deepseek-r1:free, Temp=0.5
+⚠️ Se está utilizando una Base de Conocimiento Externa.
+============================================================
+
